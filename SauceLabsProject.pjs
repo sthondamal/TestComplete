@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{363C0E37-71A4-4AB5-95A0-8EAEC47ED240}">
+	<children>
+		<child name="SauceLabsProject" key="{08CDC89F-2A07-4A77-B02E-998AAAB149B5}" path="SauceLabsProject\SauceLabsProject.mds" />
+	</children>
+	<testItems key="{4BB24050-BC25-42B5-8D9D-BE49901DBC73}">
+		<children>
+			<testItem key="{08CDC89F-2A07-4A77-B02E-998AAAB149B5}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{6C0D01F0-3FC8-4184-9322-EDABAE39922A}" />
+	<analysis key="{7A4E3C13-02BC-4929-99E1-F8A6F0068B34}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
